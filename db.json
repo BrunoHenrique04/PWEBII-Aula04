@@ -1,9 +1,35 @@
 {
+  "Clientes": [
+    {
+      "id": 1,
+      "Nome": "Bruno Henrique",
+      "CPF": "01234567810",
+      "endereco": "456.41",
+      "Rua": "Jorge da silva gonçalves",
+      "Bairro": "Carlito",
+      "Cep": "12345-678"
+    },
+    {
+      "Id": 1,
+      "Nome": "Brad Kynnyd",
+      "CPF": "01234567810",
+      "endereco": "456.41",
+      "Rua": "Jorge da silva pedro",
+      "Bairro": "Carlitos",
+      "Cep": "12345-678",
+      "id": 2
+    }
+  ],
   "posts": [
     {
       "id": 1,
       "title": "json-server",
       "author": "typicode"
+    },
+    {
+      "title": "Backend com Json",
+      "author": "typicode",
+      "id": 2
     }
   ],
   "comments": [
